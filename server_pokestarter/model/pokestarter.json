@@ -1,0 +1,1636 @@
+{
+  "data": [
+    {
+      "num": 1,
+      "species": "bulbasaur",
+      "types": ["Grass", "Poison"],
+      "evolutionline": [
+        {
+          "num": 2,
+          "species": "ivysaur",
+          "types": ["Grass", "Poison"],
+          "baseStats": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 63,
+            "specialattack": 80,
+            "specialdefense": 80,
+            "speed": 60
+          },
+          "height": 1,
+          "weight": 13,
+          "flavorTexts": [
+            {
+              "game": "Red",
+              "flavor": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/ivysaur.gif"
+        },
+        {
+          "num": 3,
+          "species": "venusaur",
+          "types": ["Grass", "Poison"],
+          "baseStats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 83,
+            "specialattack": 100,
+            "specialdefense": 100,
+            "speed": 80
+          },
+          "height": 2,
+          "weight": 100,
+          "flavorTexts": [
+            {
+              "game": "Red",
+              "flavor": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/venusaur.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "specialattack": 65,
+        "specialdefense": 65,
+        "speed": 45
+      },
+      "height": 0.7,
+      "weight": 6.9,
+      "flavorTexts": [
+        {
+          "game": "Red",
+          "flavor": "A strange seed was planted on its back at birth. The plant sprouts and grows with this Pokémon."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/bulbasaur.gif"
+    },
+    {
+      "num": 4,
+      "species": "charmander",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 5,
+          "species": "charmeleon",
+          "types": ["Fire"],
+          "baseStats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "specialattack": 80,
+            "specialdefense": 65,
+            "speed": 80
+          },
+          "height": 1.1,
+          "weight": 19,
+          "flavorTexts": [
+            {
+              "game": "Red",
+              "flavor": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/charmeleon.gif"
+        },
+        {
+          "num": 6,
+          "species": "charizard",
+          "types": ["Fire", "Flying"],
+          "baseStats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "specialattack": 109,
+            "specialdefense": 85,
+            "speed": 100
+          },
+          "height": 1.7,
+          "weight": 90.5,
+          "flavorTexts": [
+            {
+              "game": "Red",
+              "flavor": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/charizard.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "specialattack": 60,
+        "specialdefense": 50,
+        "speed": 65
+      },
+      "height": 0.6,
+      "weight": 8.5,
+      "flavorTexts": [
+        {
+          "game": "Red",
+          "flavor": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/charmander.gif"
+    },
+    {
+      "num": 7,
+      "species": "squirtle",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 8,
+          "species": "wartortle",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 59,
+            "attack": 63,
+            "defense": 80,
+            "specialattack": 65,
+            "specialdefense": 80,
+            "speed": 58
+          },
+          "height": 1,
+          "weight": 22.5,
+          "flavorTexts": [
+            {
+              "game": "Red",
+              "flavor": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/wartortle.gif"
+        },
+        {
+          "num": 9,
+          "species": "blastoise",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 79,
+            "attack": 83,
+            "defense": 100,
+            "specialattack": 85,
+            "specialdefense": 105,
+            "speed": 78
+          },
+          "height": 1.6,
+          "weight": 85.5,
+          "flavorTexts": [
+            {
+              "game": "Red",
+              "flavor": "A brutal Pokémon with pressurized water jets on its shell. They are used for high speed tackles."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/blastoise.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "specialattack": 50,
+        "specialdefense": 64,
+        "speed": 43
+      },
+      "height": 0.5,
+      "weight": 9,
+      "flavorTexts": [
+        {
+          "game": "Red",
+          "flavor": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/squirtle.gif"
+    },
+    {
+      "num": 152,
+      "species": "chikorita",
+      "types": ["Grass"],
+      "evolutionline": [
+        {
+          "num": 153,
+          "species": "bayleef",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 80,
+            "specialattack": 63,
+            "specialdefense": 80,
+            "speed": 60
+          },
+          "height": 1.2,
+          "weight": 15.8,
+          "flavorTexts": [
+            {
+              "game": "Gold",
+              "flavor": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/bayleef.gif"
+        },
+        {
+          "num": 154,
+          "species": "meganium",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 80,
+            "attack": 82,
+            "defense": 100,
+            "specialattack": 83,
+            "specialdefense": 100,
+            "speed": 80
+          },
+          "height": 1.8,
+          "weight": 100.5,
+          "flavorTexts": [
+            {
+              "game": "Gold",
+              "flavor": "The aroma that rises from its petals contains a substance that calms aggressive feelings."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/meganium.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 45,
+        "attack": 49,
+        "defense": 65,
+        "specialattack": 49,
+        "specialdefense": 65,
+        "speed": 45
+      },
+      "height": 0.9,
+      "weight": 6.4,
+      "flavorTexts": [
+        {
+          "game": "Gold",
+          "flavor": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/chikorita.gif"
+    },
+    {
+      "num": 155,
+      "species": "cyndaquil",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 156,
+          "species": "quilava",
+          "types": ["Fire"],
+          "baseStats": {
+            "hp": 58,
+            "attack": 64,
+            "defense": 58,
+            "specialattack": 80,
+            "specialdefense": 65,
+            "speed": 80
+          },
+          "height": 0.9,
+          "weight": 19,
+          "flavorTexts": [
+            {
+              "game": "Gold",
+              "flavor": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/quilava.gif"
+        },
+        {
+          "num": 157,
+          "species": "typhlosion",
+          "types": ["Fire"],
+          "baseStats": {
+            "hp": 78,
+            "attack": 84,
+            "defense": 78,
+            "specialattack": 109,
+            "specialdefense": 85,
+            "speed": 100
+          },
+          "height": 1.7,
+          "weight": 79.5,
+          "flavorTexts": [
+            {
+              "game": "Gold",
+              "flavor": "If its rage peaks, it becomes so hot that anything that touches it will instantly go up in flames."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/typhlosion.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 39,
+        "attack": 52,
+        "defense": 43,
+        "specialattack": 60,
+        "specialdefense": 50,
+        "speed": 65
+      },
+      "height": 0.5,
+      "weight": 7.9,
+      "flavorTexts": [
+        {
+          "game": "Gold",
+          "flavor": "It is timid, and always curls itself up in a ball. If attacked, it flares up its back for protection."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/cyndaquil.gif"
+    },
+    {
+      "num": 158,
+      "species": "totodile",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 159,
+          "species": "croconaw",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 65,
+            "attack": 80,
+            "defense": 80,
+            "specialattack": 59,
+            "specialdefense": 63,
+            "speed": 58
+          },
+          "height": 1.1,
+          "weight": 25,
+          "flavorTexts": [
+            {
+              "game": "Gold",
+              "flavor": "If it loses a fang, a new one grows back in its place. There are always 48 fangs lining its mouth."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/croconaw.gif"
+        },
+        {
+          "num": 160,
+          "species": "feraligatr",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 85,
+            "attack": 105,
+            "defense": 100,
+            "specialattack": 79,
+            "specialdefense": 83,
+            "speed": 78
+          },
+          "height": 2.3,
+          "weight": 88.8,
+          "flavorTexts": [
+            {
+              "game": "Gold",
+              "flavor": "When it bites with its massive and powerful jaws, it shakes its head and savagely tears its victim up."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/feraligatr.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 64,
+        "specialattack": 44,
+        "specialdefense": 48,
+        "speed": 43
+      },
+      "height": 0.6,
+      "weight": 9.5,
+      "flavorTexts": [
+        {
+          "game": "Gold",
+          "flavor": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/totodile.gif"
+    },
+    {
+      "num": 252,
+      "species": "treecko",
+      "types": ["Grass"],
+      "evolutionline": [
+        {
+          "num": 253,
+          "species": "grovyle",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 50,
+            "attack": 65,
+            "defense": 45,
+            "specialattack": 85,
+            "specialdefense": 65,
+            "speed": 95
+          },
+          "height": 0.9,
+          "weight": 21.6,
+          "flavorTexts": [
+            {
+              "game": "Ruby",
+              "flavor": "The leaves growing out of GROVYLE's body are convenient for camouflaging it from enemies in the forest. This Pokémon is a master at climbing trees in jungles."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/grovyle.gif"
+        },
+        {
+          "num": 254,
+          "species": "sceptile",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 70,
+            "attack": 85,
+            "defense": 65,
+            "specialattack": 105,
+            "specialdefense": 85,
+            "speed": 120
+          },
+          "height": 1.7,
+          "weight": 52.2,
+          "flavorTexts": [
+            {
+              "game": "Ruby",
+              "flavor": "The leaves growing on SCEPTILE's body are very sharp edged. This Pokémon is very agile - it leaps all over the branches of trees and jumps on its foe from above or behind."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/sceptile.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "specialattack": 65,
+        "specialdefense": 55,
+        "speed": 70
+      },
+      "height": 0.5,
+      "weight": 5,
+      "flavorTexts": [
+        {
+          "game": "Ruby",
+          "flavor": "TREECKO has small hooks on the bottom of its feet that enable it to scale vertical walls. This Pokémon attacks by slamming foes with its thick tail."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/treecko.gif"
+    },
+    {
+      "num": 255,
+      "species": "torchic",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 256,
+          "species": "combusken",
+          "types": ["Fire", "Fighting"],
+          "baseStats": {
+            "hp": 60,
+            "attack": 85,
+            "defense": 60,
+            "specialattack": 85,
+            "specialdefense": 60,
+            "speed": 55
+          },
+          "height": 0.9,
+          "weight": 19.5,
+          "flavorTexts": [
+            {
+              "game": "Ruby",
+              "flavor": "COMBUSKEN toughens up its legs and thighs by running through fields and mountains. This Pokémon's legs possess both speed and power, enabling it to dole out ten kicks in one second."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/combusken.gif"
+        },
+        {
+          "num": 257,
+          "species": "blaziken",
+          "types": ["Fire", "Fighting"],
+          "baseStats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 70,
+            "specialattack": 110,
+            "specialdefense": 70,
+            "speed": 80
+          },
+          "height": 1.9,
+          "weight": 52,
+          "flavorTexts": [
+            {
+              "game": "Ruby",
+              "flavor": "In battle, BLAZIKEN blows out intense flames from its wrists and attacks foes courageously. The stronger the foe, the more intensely this Pokémon's wrists burn."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/blaziken.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 40,
+        "specialattack": 70,
+        "specialdefense": 50,
+        "speed": 45
+      },
+      "height": 0.4,
+      "weight": 2.5,
+      "flavorTexts": [
+        {
+          "game": "Ruby",
+          "flavor": "TORCHIC sticks with its TRAINER, following behind with unsteady steps. This Pokémon breathes fire of over 1,800 degrees F, including fireballs that leave the foe scorched black."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/torchic.gif"
+    },
+    {
+      "num": 258,
+      "species": "mudkip",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 259,
+          "species": "marshtomp",
+          "types": ["Water", "Ground"],
+          "baseStats": {
+            "hp": 70,
+            "attack": 85,
+            "defense": 70,
+            "specialattack": 60,
+            "specialdefense": 70,
+            "speed": 50
+          },
+          "height": 0.7,
+          "weight": 28,
+          "flavorTexts": [
+            {
+              "game": "Ruby",
+              "flavor": "The surface of MARSHTOMP's body is enveloped by a thin, sticky film that enables it to live on land. This Pokémon plays in mud on beaches when the ocean tide is low."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/marshtomp.gif"
+        },
+        {
+          "num": 260,
+          "species": "swampert",
+          "types": ["Water", "Ground"],
+          "baseStats": {
+            "hp": 100,
+            "attack": 110,
+            "defense": 90,
+            "specialattack": 85,
+            "specialdefense": 90,
+            "speed": 60
+          },
+          "height": 1.5,
+          "weight": 81.9,
+          "flavorTexts": [
+            {
+              "game": "Ruby",
+              "flavor": "SWAMPERT is very strong. It has enough power to easily drag a boulder weighing more than a ton. This Pokémon also has powerful vision that lets it see even in murky water."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/swampert.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "specialattack": 50,
+        "specialdefense": 50,
+        "speed": 40
+      },
+      "height": 0.4,
+      "weight": 7.6,
+      "flavorTexts": [
+        {
+          "game": "Ruby",
+          "flavor": "The fin on MUDKIP's head acts as highly sensitive radar. Using this fin to sense movements of water and air, this Pokémon can determine what is taking place around it without using its eyes."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/mudkip.gif"
+    },
+    {
+      "num": 387,
+      "species": "turtwig",
+      "types": ["Grass"],
+      "evolutionline": [
+        {
+          "num": 388,
+          "species": "grotle",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 75,
+            "attack": 89,
+            "defense": 85,
+            "specialattack": 55,
+            "specialdefense": 65,
+            "speed": 36
+          },
+          "height": 1.1,
+          "weight": 97,
+          "flavorTexts": [
+            {
+              "game": "Diamond",
+              "flavor": "It lives along water in forests. In the daytime, it leaves the forest to sunbathe its treed shell."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/grotle.gif"
+        },
+        {
+          "num": 389,
+          "species": "torterra",
+          "types": ["Grass", "Ground"],
+          "baseStats": {
+            "hp": 95,
+            "attack": 109,
+            "defense": 105,
+            "specialattack": 75,
+            "specialdefense": 85,
+            "speed": 56
+          },
+          "height": 2.2,
+          "weight": 310,
+          "flavorTexts": [
+            {
+              "game": "Diamond",
+              "flavor": "Small Pokémon occasionally gather on its unmoving back to begin building their nests."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/torterra.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 55,
+        "attack": 68,
+        "defense": 64,
+        "specialattack": 45,
+        "specialdefense": 55,
+        "speed": 31
+      },
+      "height": 0.4,
+      "weight": 10.2,
+      "flavorTexts": [
+        {
+          "game": "Diamond",
+          "flavor": "Made from soil, the shell on its back hardens when it drinks water. It lives along lakes."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/turtwig.gif"
+    },
+    {
+      "num": 390,
+      "species": "chimchar",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 391,
+          "species": "monferno",
+          "types": ["Fire", "Fighting"],
+          "baseStats": {
+            "hp": 64,
+            "attack": 78,
+            "defense": 52,
+            "specialattack": 78,
+            "specialdefense": 52,
+            "speed": 81
+          },
+          "height": 0.9,
+          "weight": 22,
+          "flavorTexts": [
+            {
+              "game": "Diamond",
+              "flavor": "To intimidate attackers, it stretches the fire on its tail to make itself appear bigger."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/monferno.gif"
+        },
+        {
+          "num": 392,
+          "species": "infernape",
+          "types": ["Fire", "Fighting"],
+          "baseStats": {
+            "hp": 76,
+            "attack": 104,
+            "defense": 71,
+            "specialattack": 104,
+            "specialdefense": 71,
+            "speed": 108
+          },
+          "height": 1.2,
+          "weight": 55,
+          "flavorTexts": [
+            {
+              "game": "Diamond",
+              "flavor": "It uses a special kind of martial arts involving all its limbs. Its fire never goes out."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/infernape.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 44,
+        "attack": 58,
+        "defense": 44,
+        "specialattack": 58,
+        "specialdefense": 44,
+        "speed": 61
+      },
+      "height": 0.5,
+      "weight": 6.2,
+      "flavorTexts": [
+        {
+          "game": "Diamond",
+          "flavor": "It agilely scales sheer cliffs to live atop craggy mountains. Its fire is put out when it sleeps."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/chimchar.gif"
+    },
+    {
+      "num": 393,
+      "species": "piplup",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 394,
+          "species": "prinplup",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 64,
+            "attack": 66,
+            "defense": 68,
+            "specialattack": 81,
+            "specialdefense": 76,
+            "speed": 50
+          },
+          "height": 0.8,
+          "weight": 23,
+          "flavorTexts": [
+            {
+              "game": "Diamond",
+              "flavor": "It lives alone, away from others. Apparently, every one of them believes it is the most important."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/prinplup.gif"
+        },
+        {
+          "num": 395,
+          "species": "empoleon",
+          "types": ["Water", "Steel"],
+          "baseStats": {
+            "hp": 84,
+            "attack": 86,
+            "defense": 88,
+            "specialattack": 111,
+            "specialdefense": 101,
+            "speed": 60
+          },
+          "height": 1.7,
+          "weight": 84.5,
+          "flavorTexts": [
+            {
+              "game": "Diamond",
+              "flavor": "The three horns that extend from its beak attest to its power. The leader has the biggest horns."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/empoleon.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 53,
+        "attack": 51,
+        "defense": 53,
+        "specialattack": 61,
+        "specialdefense": 56,
+        "speed": 40
+      },
+      "height": 0.4,
+      "weight": 5.2,
+      "flavorTexts": [
+        {
+          "game": "Diamond",
+          "flavor": "Because it is very proud, it hates accepting food from people. Its thick down guards it from cold."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/piplup.gif"
+    },
+    {
+      "num": 495,
+      "species": "snivy",
+      "types": ["Grass"],
+      "evolutionline": [
+        {
+          "num": 496,
+          "species": "servine",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 60,
+            "attack": 60,
+            "defense": 75,
+            "specialattack": 60,
+            "specialdefense": 75,
+            "speed": 83
+          },
+          "height": 0.8,
+          "weight": 16,
+          "flavorTexts": [
+            {
+              "game": "Black",
+              "flavor": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/servine.gif"
+        },
+        {
+          "num": 497,
+          "species": "serperior",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 75,
+            "attack": 75,
+            "defense": 95,
+            "specialattack": 75,
+            "specialdefense": 95,
+            "speed": 113
+          },
+          "height": 3.3,
+          "weight": 63,
+          "flavorTexts": [
+            {
+              "game": "Black",
+              "flavor": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/serperior.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 45,
+        "attack": 45,
+        "defense": 55,
+        "specialattack": 45,
+        "specialdefense": 55,
+        "speed": 63
+      },
+      "height": 0.6,
+      "weight": 8.1,
+      "flavorTexts": [
+        {
+          "game": "Black",
+          "flavor": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/snivy.gif"
+    },
+    {
+      "num": 498,
+      "species": "tepig",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 499,
+          "species": "pignite",
+          "types": ["Fire", "Fighting"],
+          "baseStats": {
+            "hp": 90,
+            "attack": 93,
+            "defense": 55,
+            "specialattack": 70,
+            "specialdefense": 55,
+            "speed": 55
+          },
+          "height": 1,
+          "weight": 55.5,
+          "flavorTexts": [
+            {
+              "game": "Black",
+              "flavor": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/pignite.gif"
+        },
+        {
+          "num": 500,
+          "species": "emboar",
+          "types": ["Fire", "Fighting"],
+          "baseStats": {
+            "hp": 110,
+            "attack": 123,
+            "defense": 65,
+            "specialattack": 100,
+            "specialdefense": 65,
+            "speed": 65
+          },
+          "height": 1.6,
+          "weight": 150,
+          "flavorTexts": [
+            {
+              "game": "Black",
+              "flavor": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/emboar.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 65,
+        "attack": 63,
+        "defense": 45,
+        "specialattack": 45,
+        "specialdefense": 45,
+        "speed": 45
+      },
+      "height": 0.5,
+      "weight": 9.9,
+      "flavorTexts": [
+        {
+          "game": "Black",
+          "flavor": "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/tepig.gif"
+    },
+    {
+      "num": 501,
+      "species": "oshawott",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 502,
+          "species": "dewott",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 75,
+            "attack": 75,
+            "defense": 60,
+            "specialattack": 83,
+            "specialdefense": 60,
+            "speed": 60
+          },
+          "height": 0.8,
+          "weight": 24.5,
+          "flavorTexts": [
+            {
+              "game": "Black",
+              "flavor": "Strict training is how it learns its flowing double-scalchop technique."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/dewott.gif"
+        },
+        {
+          "num": 503,
+          "species": "samurott",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 95,
+            "attack": 100,
+            "defense": 85,
+            "specialattack": 108,
+            "specialdefense": 70,
+            "speed": 70
+          },
+          "height": 1.5,
+          "weight": 94.6,
+          "flavorTexts": [
+            {
+              "game": "Black",
+              "flavor": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/samurott.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 45,
+        "specialattack": 63,
+        "specialdefense": 45,
+        "speed": 45
+      },
+      "height": 0.5,
+      "weight": 5.9,
+      "flavorTexts": [
+        {
+          "game": "Black",
+          "flavor": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/oshawott.gif"
+    },
+    {
+      "num": 650,
+      "species": "chespin",
+      "types": ["Grass"],
+      "evolutionline": [
+        {
+          "num": 651,
+          "species": "quilladin",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 61,
+            "attack": 78,
+            "defense": 95,
+            "specialattack": 56,
+            "specialdefense": 58,
+            "speed": 57
+          },
+          "height": 0.7,
+          "weight": 29,
+          "flavorTexts": [
+            {
+              "game": "X",
+              "flavor": "It relies on its sturdy shell to deflect predators' attacks. It counterattacks with its sharp quills."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/quilladin.gif"
+        },
+        {
+          "num": 652,
+          "species": "chesnaught",
+          "types": ["Grass", "Fighting"],
+          "baseStats": {
+            "hp": 88,
+            "attack": 107,
+            "defense": 122,
+            "specialattack": 74,
+            "specialdefense": 75,
+            "speed": 64
+          },
+          "height": 1.6,
+          "weight": 90,
+          "flavorTexts": [
+            {
+              "game": "X",
+              "flavor": "Its Tackle is forceful enough to flip a 50-ton tank. It shields its allies from danger with its own body."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/chesnaught.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 56,
+        "attack": 61,
+        "defense": 65,
+        "specialattack": 48,
+        "specialdefense": 45,
+        "speed": 38
+      },
+      "height": 0.4,
+      "weight": 9,
+      "flavorTexts": [
+        {
+          "game": "X",
+          "flavor": "The quills on its head are usually soft. When it flexes them, the points become so hard and sharp that they can pierce rock."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/chespin.gif"
+    },
+    {
+      "num": 653,
+      "species": "fennekin",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 654,
+          "species": "braixen",
+          "types": ["Fire"],
+          "baseStats": {
+            "hp": 59,
+            "attack": 59,
+            "defense": 58,
+            "specialattack": 90,
+            "specialdefense": 70,
+            "speed": 73
+          },
+          "height": 1,
+          "weight": 14.5,
+          "flavorTexts": [
+            {
+              "game": "X",
+              "flavor": "It has a twig stuck in its tail. With friction from its tail fur, it sets the twig on fire and launches into battle."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/braixen.gif"
+        },
+        {
+          "num": 655,
+          "species": "delphox",
+          "types": ["Fire", "Psychic"],
+          "baseStats": {
+            "hp": 75,
+            "attack": 69,
+            "defense": 72,
+            "specialattack": 114,
+            "specialdefense": 100,
+            "speed": 104
+          },
+          "height": 1.5,
+          "weight": 39,
+          "flavorTexts": [
+            {
+              "game": "X",
+              "flavor": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/delphox.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "specialattack": 62,
+        "specialdefense": 60,
+        "speed": 60
+      },
+      "height": 0.4,
+      "weight": 9.4,
+      "flavorTexts": [
+        {
+          "game": "X",
+          "flavor": "Eating a twig fills it with energy, and its roomy ears give vent to air hotter than 390 degrees Fahrenheit."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/fennekin.gif"
+    },
+    {
+      "num": 656,
+      "species": "froakie",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 657,
+          "species": "frogadier",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 54,
+            "attack": 63,
+            "defense": 52,
+            "specialattack": 83,
+            "specialdefense": 56,
+            "speed": 97
+          },
+          "height": 0.6,
+          "weight": 10.9,
+          "flavorTexts": [
+            {
+              "game": "X",
+              "flavor": "It can throw bubble-covered pebbles with precise control, hitting empty cans up to a hundred feet away."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/frogadier.gif"
+        },
+        {
+          "num": 658,
+          "species": "greninja",
+          "types": ["Water", "Dark"],
+          "baseStats": {
+            "hp": 72,
+            "attack": 95,
+            "defense": 67,
+            "specialattack": 103,
+            "specialdefense": 71,
+            "speed": 122
+          },
+          "height": 1.5,
+          "weight": 40,
+          "flavorTexts": [
+            {
+              "game": "X",
+              "flavor": "It creates throwing stars out of compressed water. When it spins them and throws them at high speed, these stars can split metal in two."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/greninja.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 41,
+        "attack": 56,
+        "defense": 40,
+        "specialattack": 62,
+        "specialdefense": 44,
+        "speed": 71
+      },
+      "height": 0.3,
+      "weight": 7,
+      "flavorTexts": [
+        {
+          "game": "X",
+          "flavor": "It secretes flexible bubbles from its chest and back. The bubbles reduce the damage it would otherwise take when attacked."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/froakie.gif"
+    },
+    {
+      "num": 722,
+      "species": "rowlet",
+      "types": ["Grass", "Flying"],
+      "evolutionline": [
+        {
+          "num": 723,
+          "species": "dartrix",
+          "types": ["Grass", "Flying"],
+          "baseStats": {
+            "hp": 78,
+            "attack": 75,
+            "defense": 75,
+            "specialattack": 70,
+            "specialdefense": 70,
+            "speed": 52
+          },
+          "height": 0.7,
+          "weight": 16,
+          "flavorTexts": [
+            {
+              "game": "Sun",
+              "flavor": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/dartrix.gif"
+        },
+        {
+          "num": 724,
+          "species": "decidueye",
+          "types": ["Grass", "Ghost"],
+          "baseStats": {
+            "hp": 78,
+            "attack": 107,
+            "defense": 75,
+            "specialattack": 100,
+            "specialdefense": 100,
+            "speed": 70
+          },
+          "height": 1.6,
+          "weight": 36.6,
+          "flavorTexts": [
+            {
+              "game": "Sun",
+              "flavor": "It fires arrow quills from its wings with such precision, they can pierce a pebble at distances over a hundred yards."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/decidueye.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 68,
+        "attack": 55,
+        "defense": 55,
+        "specialattack": 50,
+        "specialdefense": 50,
+        "speed": 42
+      },
+      "height": 0.3,
+      "weight": 1.5,
+      "flavorTexts": [
+        {
+          "game": "Sun",
+          "flavor": "This wary Pokémon uses photosynthesis to store up energy during the day, while becoming active at night."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/rowlet.gif"
+    },
+    {
+      "num": 725,
+      "species": "litten",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 726,
+          "species": "torracat",
+          "types": ["Fire"],
+          "baseStats": {
+            "hp": 65,
+            "attack": 85,
+            "defense": 50,
+            "specialattack": 80,
+            "specialdefense": 50,
+            "speed": 90
+          },
+          "height": 0.7,
+          "weight": 25,
+          "flavorTexts": [
+            {
+              "game": "Sun",
+              "flavor": "At its throat, it bears a bell of fire. The bell rings brightly whenever this Pokémon spits fire."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/torracat.gif"
+        },
+        {
+          "num": 727,
+          "species": "incineroar",
+          "types": ["Fire", "Dark"],
+          "baseStats": {
+            "hp": 95,
+            "attack": 115,
+            "defense": 90,
+            "specialattack": 80,
+            "specialdefense": 90,
+            "speed": 60
+          },
+          "height": 1.8,
+          "weight": 83,
+          "flavorTexts": [
+            {
+              "game": "Sun",
+              "flavor": "This Pokémon has a violent, selfish disposition. If it's not in the mood to listen, it will ignore its Trainer's orders with complete nonchalance."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/incineroar.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 45,
+        "attack": 65,
+        "defense": 40,
+        "specialattack": 60,
+        "specialdefense": 40,
+        "speed": 70
+      },
+      "height": 0.4,
+      "weight": 4.3,
+      "flavorTexts": [
+        {
+          "game": "Sun",
+          "flavor": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/litten.gif"
+    },
+    {
+      "num": 728,
+      "species": "popplio",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 729,
+          "species": "brionne",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 60,
+            "attack": 69,
+            "defense": 69,
+            "specialattack": 91,
+            "specialdefense": 81,
+            "speed": 50
+          },
+          "height": 0.6,
+          "weight": 17.5,
+          "flavorTexts": [
+            {
+              "game": "Sun",
+              "flavor": "A skillful dancer, it creates a sequence of water balloons as it dances, and briskly bombards its enemies."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/brionne.gif"
+        },
+        {
+          "num": 730,
+          "species": "primarina",
+          "types": ["Water", "Fairy"],
+          "baseStats": {
+            "hp": 80,
+            "attack": 74,
+            "defense": 74,
+            "specialattack": 126,
+            "specialdefense": 116,
+            "speed": 60
+          },
+          "height": 1.8,
+          "weight": 44,
+          "flavorTexts": [
+            {
+              "game": "Sun",
+              "flavor": "It controls its water balloons with song. The melody is learned from others of its kind and is passed down from one generation to the next."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/primarina.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 50,
+        "attack": 54,
+        "defense": 54,
+        "specialattack": 66,
+        "specialdefense": 56,
+        "speed": 40
+      },
+      "height": 0.4,
+      "weight": 7.5,
+      "flavorTexts": [
+        {
+          "game": "Sun",
+          "flavor": "This Pokémon snorts body fluids from its nose, blowing balloons to smash into its foes. It's famous for being a hard worker."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/popplio.gif"
+    },
+    {
+      "num": 810,
+      "species": "grookey",
+      "types": ["Grass"],
+      "evolutionline": [
+        {
+          "num": 811,
+          "species": "thwackey",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 70,
+            "attack": 85,
+            "defense": 70,
+            "specialattack": 55,
+            "specialdefense": 60,
+            "speed": 80
+          },
+          "height": 0.7,
+          "weight": 14,
+          "flavorTexts": [
+            {
+              "game": "Sword",
+              "flavor": "The faster a Thwackey can beat out a rhythm with its two sticks, the more respect it wins from its peers."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/thwackey.gif"
+        },
+        {
+          "num": 812,
+          "species": "rillaboom",
+          "types": ["Grass"],
+          "baseStats": {
+            "hp": 100,
+            "attack": 125,
+            "defense": 90,
+            "specialattack": 60,
+            "specialdefense": 70,
+            "speed": 85
+          },
+          "height": 2.1,
+          "weight": 90,
+          "flavorTexts": [
+            {
+              "game": "Sword",
+              "flavor": "By drumming, it taps into the power of its special tree stump. The roots of the stump follow its direction in battle."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/rillaboom.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 50,
+        "specialattack": 40,
+        "specialdefense": 40,
+        "speed": 65
+      },
+      "height": 0.3,
+      "weight": 5,
+      "flavorTexts": [
+        {
+          "game": "Sword",
+          "flavor": "When it uses its special stick to strike up a beat, the sound waves produced carry revitalizing energy to the plants and flowers in the area."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/grookey.gif"
+    },
+    {
+      "num": 813,
+      "species": "scorbunny",
+      "types": ["Fire"],
+      "evolutionline": [
+        {
+          "num": 814,
+          "species": "raboot",
+          "types": ["Fire"],
+          "baseStats": {
+            "hp": 65,
+            "attack": 86,
+            "defense": 60,
+            "specialattack": 55,
+            "specialdefense": 60,
+            "speed": 94
+          },
+          "height": 0.6,
+          "weight": 9,
+          "flavorTexts": [
+            {
+              "game": "Sword",
+              "flavor": "Its thick and fluffy fur protects it from the cold and enables it to use hotter fire moves."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/raboot.gif"
+        },
+        {
+          "num": 815,
+          "species": "cinderace",
+          "types": ["Fire"],
+          "baseStats": {
+            "hp": 80,
+            "attack": 116,
+            "defense": 75,
+            "specialattack": 65,
+            "specialdefense": 75,
+            "speed": 119
+          },
+          "height": 1.4,
+          "weight": 33,
+          "flavorTexts": [
+            {
+              "game": "Sword",
+              "flavor": "It juggles a pebble with its feet, turning it into a burning soccer ball. Its shots strike opponents hard and leave them scorched."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/cinderace.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 50,
+        "attack": 71,
+        "defense": 40,
+        "specialattack": 40,
+        "specialdefense": 40,
+        "speed": 69
+      },
+      "height": 0.3,
+      "weight": 4.5,
+      "flavorTexts": [
+        {
+          "game": "Sword",
+          "flavor": "A warm-up of running around gets fire energy coursing through this Pokémon's body. Once that happens, it's ready to fight at full power."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/scorbunny.gif"
+    },
+    {
+      "num": 816,
+      "species": "sobble",
+      "types": ["Water"],
+      "evolutionline": [
+        {
+          "num": 817,
+          "species": "drizzile",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 65,
+            "attack": 60,
+            "defense": 55,
+            "specialattack": 95,
+            "specialdefense": 55,
+            "speed": 90
+          },
+          "height": 0.7,
+          "weight": 11.5,
+          "flavorTexts": [
+            {
+              "game": "Sword",
+              "flavor": "A clever combatant, this Pokémon battles using water balloons created with moisture secreted from its palms."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/drizzile.gif"
+        },
+        {
+          "num": 818,
+          "species": "inteleon",
+          "types": ["Water"],
+          "baseStats": {
+            "hp": 70,
+            "attack": 85,
+            "defense": 65,
+            "specialattack": 125,
+            "specialdefense": 65,
+            "speed": 120
+          },
+          "height": 1.9,
+          "weight": 45.2,
+          "flavorTexts": [
+            {
+              "game": "Sword",
+              "flavor": "It has many hidden capabilities, such as fingertips that can shoot water and a membrane on its back that it can use to glide through the air."
+            }
+          ],
+          "sprite": "https://play.pokemonshowdown.com/sprites/ani/inteleon.gif"
+        }
+      ],
+      "baseStats": {
+        "hp": 50,
+        "attack": 40,
+        "defense": 40,
+        "specialattack": 70,
+        "specialdefense": 40,
+        "speed": 70
+      },
+      "height": 0.3,
+      "weight": 4,
+      "flavorTexts": [
+        {
+          "game": "Sword",
+          "flavor": "When scared, this Pokémon cries. Its tears pack the chemical punch of 100 onions, and attackers won't be able to resist weeping."
+        }
+      ],
+      "sprite": "https://play.pokemonshowdown.com/sprites/ani/sobble.gif"
+    }
+  ]
+}
